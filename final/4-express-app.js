@@ -11,9 +11,9 @@ app.get('/', (req, res) => {
 })
 
 app.all('*', (req, res) => {
-  res.status(404).send('resource not found')
+  res.status(404).send(`Page cannot be found`)
 })
 
 app.listen(5000, () => {
-  console.log('server is listening on port 5000....')
+  console.log(`Server is listening on port 5000...`)
 })
