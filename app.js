@@ -1,40 +1,20 @@
 const express = require('express')
 const app = express()
-const { products } = require('./data')
 
-app.get('/', (req, res) => {
-  res.send('<h1> Home Page </h1><a href="/api/products">products</a>')
-})
+const people = require('./routes/people')
+const auth = require('./routes/auth')
 
-app.get('/api/products', (req, res) => {
-  const newProducts = products.map((product) => {
-    const { id, name, image } = product
-    return { id, name, image }
-  })
+// static assets
+app.use(express.static('./methods-public'))
+// parse form data
+app.use(express.urlencoded({ extended: false }))
+// parse json
+app.use(express.json())
 
-  res.json(newProducts)
-})
+app.use('/api/people', people)
+app.use('/login', auth)
 
-app.get('/api/products/:productID', (req, res) => {
-  // console.log(req);
-  // console.log(req.params);
-  const { productID } = req.params;
 
-  const singleProduct = products.find((product) => product.id === Number(productID))
-  if(!singleProduct){
-    return res.status(404).send(`${productID} Product ID does not Exist`)
-  }
-  console.log(singleProduct)
-  res.json(singleProduct)
-})
-
-app.get('/api/products/:productID/reviews/:reviewID', (req,res) =>{
-  console.log(req.params)
-  res.send('Hello Zoh')
-  
-})
-
-app.listen(5000, (req, res) => {
-  console.log('Server is listening on PORT 5000...');
-
+app.listen(5000, () => {
+  console.log('Server is listening on port 5000....');
 })
