@@ -26,6 +26,8 @@
 
 ---
 
+## 👤 Author
+**Adebayo Wariz**  
 ## 🔧 Tools and Libraries Used
 
 ---
