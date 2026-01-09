@@ -20,6 +20,9 @@
 
 ## 📱 App Preview
 
+---
+
+## 🤝 Contributing
 
 ---
 
