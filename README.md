@@ -21,15 +21,14 @@
 ## 📱 App Preview
 
 ---
-
-## 🤝 Contributing
-
----
-
-## 👤 Author
-**Adebayo Wariz**  
+  
 ## 🔧 Tools and Libraries Used
 
 ---
 
 ## ⚙️ How It Works
+
+---
+
+## 👤 Author
+**Adebayo Wariz**
