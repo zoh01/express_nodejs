@@ -31,6 +31,7 @@ The app serves three primary user types:
 ---
 
 ## 🛠️ My Approach
+### Architecture Pattern
 
 ---
 
