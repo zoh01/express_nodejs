@@ -27,6 +27,7 @@ The app serves three primary user types:
 ## ✨ Features
 ### 🔐 User Management & Authentication
 ### 🏠 Room Management
+### 🔔 Additional Features
 ---
 
 ## 🛠️ My Approach
