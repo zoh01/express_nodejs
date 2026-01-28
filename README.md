@@ -43,6 +43,7 @@ The app serves three primary user types:
 1. ### Core Technologies
 2. ### Backend & Database
 3. ### State Management
+4. ### UI & Design
 
 ---
 
