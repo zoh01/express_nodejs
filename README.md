@@ -25,7 +25,7 @@ The app serves three primary user types:
 ---
 
 ## ✨ Features
-
+### 🔐 User Management & Authentication
 ---
 
 ## 🛠️ My Approach
