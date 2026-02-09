@@ -74,3 +74,7 @@ LinkedIn: https://www.linkedin.com/in/adebayo-wariz-a8ab9a310/
 GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 
 Project Link: [https://github.com/zoh01/interior_design](https://github.com/zoh01/interior_design)
+
+---
+
+## 📄 License
