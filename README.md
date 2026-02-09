@@ -62,3 +62,5 @@ The app serves three primary user types:
 
 ## 👤 Author
 **Adebayo Wariz**
+
+### 📧 Contact
