@@ -40,6 +40,34 @@ The app serves three primary user types:
 ### Architecture Pattern
 
 ---
+## 🛠️ Tech Stack
+    # Core
+    flutter: ^3.0.0
+    dart: ^3.0.0
+    
+    # State Management
+    provider: ^latest              # State management
+    # or flutter_bloc: ^latest
+    
+    # Networking
+    http: ^latest                  # HTTP requests
+    dio: ^latest                   # Advanced HTTP client
+    
+    # Location
+    geolocator: ^latest            # GPS location
+    geocoding: ^latest             # Reverse geocoding
+    
+    # UI
+    google_fonts: ^latest          # Custom fonts
+    intl: ^latest                  # Date formatting
+    lottie: ^latest               # Animations
+    cached_network_image: ^latest  # Image caching
+    
+    # Storage
+    shared_preferences: ^latest    # Local storage
+
+
+---
 
 ## 📱 App Preview
 
