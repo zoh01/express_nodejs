@@ -91,6 +91,7 @@ The app serves three primary user types:
 
 ---
 ## 💡 Usage
+### Search for a City
 
 ---
 
