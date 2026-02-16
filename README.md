@@ -69,6 +69,7 @@ The app serves three primary user types:
     # Storage
     shared_preferences: ^latest    # Local storage
 
+### Get Your API Key
 
 ---
 
