@@ -71,6 +71,7 @@ The app serves three primary user types:
 
 ### Get Your API Key
 1. Visit [OpenWeatherMap](https://openweathermap.org/api)
+2. Sign up for a free account
 
 ---
 
