@@ -22,6 +22,9 @@ A comprehensive hostel management solution built with Flutter for seamless admin
 ### The Solution: 
 The app serves three primary user types:
 
+---
+
+## 📱 Cross-Platform
 - Android, iOS, Web, Windows, macOS, Linux
 
 ---
