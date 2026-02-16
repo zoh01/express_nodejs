@@ -70,6 +70,7 @@ The app serves three primary user types:
     shared_preferences: ^latest    # Local storage
 
 ### Get Your API Key
+1. Visit [OpenWeatherMap](https://openweathermap.org/api)
 
 ---
 
