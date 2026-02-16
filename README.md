@@ -90,6 +90,9 @@ The app serves three primary user types:
 5. ### Utilities
 
 ---
+## 💡 Usage
+
+---
 
 ## ⚙️ How It Works
 
