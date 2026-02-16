@@ -74,6 +74,7 @@ The app serves three primary user types:
 2. Sign up for a free account
 3. Navigate to **API Keys** section
 4. Copy your **API key**
+5. Paste it in api.env file
 
 ---
 
