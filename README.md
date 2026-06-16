@@ -61,9 +61,7 @@ The app serves three primary user types:
     intl: ^latest                  # Date formatting
     lottie: ^latest               # Animations
     cached_network_image: ^latest  # Image caching
-    
-    # Storage
-    shared_preferences: ^latest    # Local storage
+
 
 ### Get Your API Key
 1. Visit [OpenWeatherMap](https://openweathermap.org/api)
