@@ -94,8 +94,6 @@ The app serves three primary user types:
 ### Search for a City
 1. Tap the search icon
 2. Type city name (e.g., "London", "New York")
-3. Select from suggestions
-4. View weather details
 
 
 ---
