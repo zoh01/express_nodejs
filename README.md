@@ -92,8 +92,6 @@ The app serves three primary user types:
 ---
 ## 💡 Usage
 ### Search for a City
-1. Tap the search icon
-2. Type city name (e.g., "London", "New York")
 
 
 ---
