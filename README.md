@@ -100,10 +100,6 @@ The app serves three primary user types:
 
 ---
 
-## 🤝 Contributing
-
----
-
 ## 👤 Author
 **Adebayo Wariz**
 
