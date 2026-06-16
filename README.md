@@ -89,10 +89,6 @@ The app serves three primary user types:
 4. ### UI & Design
 5. ### Utilities
 
----
-## 💡 Usage
-### Search for a City
-
 
 ---
 
