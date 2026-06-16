@@ -97,9 +97,6 @@ The app serves three primary user types:
 3. Select from suggestions
 4. View weather details
 
----
-
-## ⚙️ How It Works
 
 ---
 
