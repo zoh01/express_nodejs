@@ -70,9 +70,5 @@ The app serves three primary user types:
 4. Copy your **API key**
 5. Paste it in api.env file
 
----
-
-## 📱 App Preview
-
 
 
