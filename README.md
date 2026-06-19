@@ -75,9 +75,7 @@ The app serves three primary user types:
 ## 📱 App Preview
 
 ---
-  
-## 🔧 Tools and Libraries Used
-1. ### Core Technologies
+
 
 ---
 
