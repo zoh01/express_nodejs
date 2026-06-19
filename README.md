@@ -78,9 +78,6 @@ The app serves three primary user types:
   
 ## 🔧 Tools and Libraries Used
 1. ### Core Technologies
-2. ### Backend & Database
-3. ### State Management
-
 
 ---
 
