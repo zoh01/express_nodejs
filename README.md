@@ -74,10 +74,6 @@ The app serves three primary user types:
 
 ## 📱 App Preview
 
----
-
-
----
 
 Whatsapp: +234 702 513 6608
 
