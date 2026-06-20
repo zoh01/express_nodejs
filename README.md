@@ -34,12 +34,6 @@ The app serves three primary user types:
 ## 🛠️ My Approach
 ### Architecture Pattern
 
----
-## 🛠️ Tech Stack
-    # Core
-    flutter: ^3.0.0
-    dart: ^3.0.0
-    
     # State Management
     provider: ^latest              # State management
     # or flutter_bloc: ^latest
