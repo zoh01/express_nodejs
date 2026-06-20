@@ -48,9 +48,6 @@ The app serves three primary user types:
     provider: ^latest              # State management
     # or flutter_bloc: ^latest
     
-    # Networking
-    http: ^latest                  # HTTP requests
-    dio: ^latest                   # Advanced HTTP client
     
     # Location
     geolocator: ^latest            # GPS location
