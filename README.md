@@ -1,7 +1,5 @@
 # Node JS
 
-## 📖 Introduction
-In today's digital age, content creation has become more important than ever. However, many blogging platforms are either 
 
 <div align="center">
 
