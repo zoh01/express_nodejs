@@ -11,11 +11,6 @@
 
 </div>
 
----
-
-## 📖 Introduction
-### The Solution: 
-The app serves three primary user types:
 
 
 
