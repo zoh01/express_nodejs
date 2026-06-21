@@ -37,8 +37,6 @@ The app serves three primary user types:
     geolocator: ^latest            # GPS location
     geocoding: ^latest             # Reverse geocoding
     
-    # UI
-    google_fonts: ^latest          # Custom fonts
     intl: ^latest                  # Date formatting
     lottie: ^latest               # Animations
     cached_network_image: ^latest  # Image caching
