@@ -28,7 +28,7 @@ The app serves three primary user types:
 ### 🔐 User Management & Authentication
 ---
 
-## 🛠️ My Approach
+
 ### Architecture Pattern
 
     # State Management
