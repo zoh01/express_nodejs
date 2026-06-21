@@ -18,9 +18,6 @@
 The app serves three primary user types:
 
 
----
-
-## 🎯 Overview
 
 ---
 
