@@ -26,10 +26,7 @@ The app serves three primary user types:
 ---
 
 
-### Architecture Pattern
 
-    # State Management
-    provider: ^latest              # State management
     # or flutter_bloc: ^latest
     
     
