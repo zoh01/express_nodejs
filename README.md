@@ -1,4 +1,4 @@
-# Node JS
+t# Node JS
 
 
 <div align="center">
@@ -26,8 +26,5 @@ Authentication
     geolocator: ^latest            # GPS location
     geocoding: ^latest             # Reverse geocoding
     
-    intl: ^latest                  # Date formatting
-    lottie: ^latest               # Animations
-    cached_network_image: ^latest  # Image caching
 
 
