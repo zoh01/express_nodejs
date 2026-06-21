@@ -14,9 +14,7 @@
 
 
 ---
-
-## ✨ Features
-### 🔐 User Management & Authentication
+Authentication
 ---
 
 
