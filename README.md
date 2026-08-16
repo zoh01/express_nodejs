@@ -24,7 +24,7 @@
     
     # Location
     geolocator: ^latest            # GPS location
-    geocoding: ^latest             # Reverse geocoding
+
     
 
 
