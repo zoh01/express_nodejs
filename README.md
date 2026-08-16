@@ -21,9 +21,6 @@
 
     # or flutter_bloc: ^latest
     
-    
-    # Location
-    geolocator: ^latest            # GPS location
 
     
 
